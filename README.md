@@ -12,3 +12,4 @@ the changes which i do are
 2.Create a debounced version of the (generateResults) function by passing it to the (debounce) function along with a wait time of 300 milliseconds.
 
 3.Update the (validateInput )function to use the debounced version of (generateResults). This will delay the execution of the (generateResults) function until 300 milliseconds after the user has stopped typing in the search input.
+https://mostafashehata0.github.io/wikipedia-search-engine/
